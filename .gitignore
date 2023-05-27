@@ -1,0 +1,6 @@
+data/
+__pycache__/
+
+trained_rnn.pt
+generated_script_1.txt
+preprocess.p
